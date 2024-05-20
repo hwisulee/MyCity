@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="storeCategoryScreen">Store Category</string>
+    <string name="storeListScreen">Store List</string>
+    <string name="storeInfoScreen">Store Information</string>
+
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="navigation_rail">Navigation Rail</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_back">Back</string>
+    <string name="tab_cafe">Cafe</string>
+    <string name="tab_restaurant">Restaurant</string>
+    <string name="tab_mall">Shopping Mall</string>
+    <string name="logo">Logo</string>
+
+    <string name="description01">In your busy daily life, why don\'t you drink a cup of coffee at a cafe and feel relaxed?</string>
+    <string name="description02">Even in the tired daily life, you have to eat regularly to be healthy, how about these restaurants?</string>
+    <string name="description03">Why don\'t you meet a variety of things in your daily life, from daily necessities to luxury items?</string>
+
+    <string name="detail">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dictum imperdiet tellus, vel faucibus sem. Nam rutrum quis augue in volutpat.
+        Morbi scelerisque eleifend ante quis pharetra. Aenean non quam dui. Donec ac arcu sem. Aenean volutpat felis id mauris gravida molestie.
+        Nullam erat urna, aliquet ac nibh at, facilisis gravida quam. Curabitur vitae ullamcorper libero.
+        Nullam at magna condimentum, feugiat felis in, feugiat nisi. Nullam in turpis nulla. Vivamus sed eros augue.
+    </string>
+
+    <string name="cafe01_name">스타벅스</string>
+    <string name="cafe01_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="cafe01_contact">999–9999</string>
+
+    <string name="cafe02_name">백다방</string>
+    <string name="cafe02_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="cafe02_contact">999–9999</string>
+
+    <string name="cafe03_name">이디야커피</string>
+    <string name="cafe03_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="cafe03_contact">999–9999</string>
+
+    <string name="restaurant01_name">아웃백</string>
+    <string name="restaurant01_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="restaurant01_contact">999–9999</string>
+
+    <string name="restaurant02_name">VIPS</string>
+    <string name="restaurant02_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="restaurant02_contact">999–9999</string>
+
+    <string name="restaurant03_name">애슐리</string>
+    <string name="restaurant03_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="restaurant03_contact">999–9999</string>
+
+    <string name="mall01_name">롯데백화점</string>
+    <string name="mall01_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="mall01_contact">999–9999</string>
+
+    <string name="mall02_name">현대백화점</string>
+    <string name="mall02_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="mall02_contact">999–9999</string>
+
+    <string name="mall03_name">신세계백화점</string>
+    <string name="mall03_adress">익명시 익명도 익명군 9로 999–9</string>
+    <string name="mall03_contact">999–9999</string>
+</resources>
